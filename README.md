@@ -1,0 +1,5 @@
+# Processing-Datasets-using-Pandas
+1- write a function that reads in the dataset from the file provided and write it out to another file in JSON format. Use the pandas module to read and write files. 
+2-  Write a function that calculates the total number of cases and deaths by state for a particular day, say march 3/21/2020. You should pass the date as an argument to your function. The output should be a csv file that have the following information: [date, state, cases, death]. Note that the input file has other fields that we are not writing in the output file. Also, we are only writing records to the file for the specified day 3/21/2020 and ignoring all other days. 
+3- Write a program that reads in the csv file that you produced in problem 2 and draws a histogram of top 10 states showing the states and the number of cases for the specified day (3/21/2020).  
+4- Write a program that reads in the csv file that you produced in problem 2 and draws a histogram showing the of top 10 states and the number of deaths for the specified day (3/21/2020). 
